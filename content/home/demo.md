@@ -69,7 +69,7 @@ The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your 
 
 To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
+### [❤️ Click here to unlock rewards with sponsorship11111](https://wowchemy.com/plans/)
 
 ## You're looking at a Wowchemy _widget_
 
