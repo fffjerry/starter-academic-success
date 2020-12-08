@@ -71,7 +71,7 @@ To help us develop this template and software sustainably under the MIT license,
 
 ### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
-## You're looking at a Wowchemy _widget_
+## You're not looking at a Wowchemy _widget_
 
 {{% callout note %}}
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
